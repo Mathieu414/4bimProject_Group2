@@ -1,3 +1,3 @@
-from Project4bim import autoencoder
+from project4bim2022g2 import robot_portrait
 
-autoencoder.run()
+robot_portrait.run()
