@@ -3,20 +3,24 @@
 First, run this command in the terminal :
 
 ```
-python -m venv robotportrait_venv
+python -m venv .
 ```
 
 **On Windows :**
 
 ```
-cd robotportrait_venv
 .\Scripts\activate
+```
+
+or if using Git Bash :
+
+```
+. Scripts/activate
 ```
 
 **On Ubuntu/Mac (other than M1) :**
 
 ```
-cd robotportrait_venv
 source bin/activate
 ```
 
