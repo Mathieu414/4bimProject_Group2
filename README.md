@@ -1,12 +1,24 @@
 # Projet-4bim
 
-First, run this command in the terminal :
+First clone this github repository.
+
+cd into the repository.
+
+Then run in the terminal :
 
 ```
 python -m venv .
 ```
 
-**On Windows :**
+Then,
+
+**On Ubuntu/Mac (other than M1) :**
+
+```
+source bin/activate
+```
+
+**Windows :**
 
 ```
 .\Scripts\activate
@@ -17,14 +29,6 @@ or if using Git Bash :
 ```
 . Scripts/activate
 ```
-
-**On Ubuntu/Mac (other than M1) :**
-
-```
-source bin/activate
-```
-
-Then download the files `main.py` and `requirements.txt`.
 
 Then run
 
