@@ -5,3 +5,4 @@ matplotlib
 Pillow
 pandas
 opencv-python
+project4bim2022_g2
